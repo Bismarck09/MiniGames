@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\barin\\MiniGamess\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D6215E35-AF1B-0574-5F6D-2F40934FAC61}|Assembly-CSharp.csproj|c:\\users\\barin\\minigamess\\assets\\minigames\\develop\\timur\\minigames\\runtime\\games\\mathquest\\mathquest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6215E35-AF1B-0574-5F6D-2F40934FAC61}|Assembly-CSharp.csproj|solutionrelative:assets\\minigames\\develop\\timur\\minigames\\runtime\\games\\mathquest\\mathquest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6215E35-AF1B-0574-5F6D-2F40934FAC61}|Assembly-CSharp.csproj|c:\\users\\barin\\minigamess\\assets\\minigames\\develop\\timur\\minigames\\runtime\\games\\wavemaster\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6215E35-AF1B-0574-5F6D-2F40934FAC61}|Assembly-CSharp.csproj|solutionrelative:assets\\minigames\\develop\\timur\\minigames\\runtime\\games\\wavemaster\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6215E35-AF1B-0574-5F6D-2F40934FAC61}|Assembly-CSharp.csproj|c:\\users\\barin\\minigamess\\assets\\minigames\\develop\\timur\\minigames\\runtime\\games\\dino\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6215E35-AF1B-0574-5F6D-2F40934FAC61}|Assembly-CSharp.csproj|solutionrelative:assets\\minigames\\develop\\timur\\minigames\\runtime\\games\\dino\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6215E35-AF1B-0574-5F6D-2F40934FAC61}|Assembly-CSharp.csproj|c:\\users\\barin\\minigamess\\assets\\minigames\\develop\\timur\\minigames\\runtime\\gamepoints\\gamepoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6215E35-AF1B-0574-5F6D-2F40934FAC61}|Assembly-CSharp.csproj|solutionrelative:assets\\minigames\\develop\\timur\\minigames\\runtime\\gamepoints\\gamepoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6215E35-AF1B-0574-5F6D-2F40934FAC61}|Assembly-CSharp.csproj|c:\\users\\barin\\minigamess\\assets\\minigames\\develop\\timur\\minigames\\runtime\\games\\memory\\card\\spawner\\spawncards.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6215E35-AF1B-0574-5F6D-2F40934FAC61}|Assembly-CSharp.csproj|solutionrelative:assets\\minigames\\develop\\timur\\minigames\\runtime\\games\\memory\\card\\spawner\\spawncards.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6215E35-AF1B-0574-5F6D-2F40934FAC61}|Assembly-CSharp.csproj|c:\\users\\barin\\minigamess\\assets\\minigames\\develop\\timur\\minigames\\runtime\\games\\memory\\gamemechanics\\gamemechanics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6215E35-AF1B-0574-5F6D-2F40934FAC61}|Assembly-CSharp.csproj|solutionrelative:assets\\minigames\\develop\\timur\\minigames\\runtime\\games\\memory\\gamemechanics\\gamemechanics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6215E35-AF1B-0574-5F6D-2F40934FAC61}|Assembly-CSharp.csproj|c:\\users\\barin\\minigamess\\assets\\minigames\\develop\\timur\\minigames\\runtime\\games\\flappybird\\bird\\diedbird\\diedbird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6215E35-AF1B-0574-5F6D-2F40934FAC61}|Assembly-CSharp.csproj|solutionrelative:assets\\minigames\\develop\\timur\\minigames\\runtime\\games\\flappybird\\bird\\diedbird\\diedbird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6215E35-AF1B-0574-5F6D-2F40934FAC61}|Assembly-CSharp.csproj|c:\\users\\barin\\minigamess\\assets\\minigames\\develop\\timur\\minigames\\runtime\\menu\\option\\audiocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6215E35-AF1B-0574-5F6D-2F40934FAC61}|Assembly-CSharp.csproj|solutionrelative:assets\\minigames\\develop\\timur\\minigames\\runtime\\menu\\option\\audiocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6215E35-AF1B-0574-5F6D-2F40934FAC61}|Assembly-CSharp.csproj|c:\\users\\barin\\minigamess\\assets\\minigames\\develop\\timur\\minigames\\runtime\\games\\memory\\card\\rotation\\rotationcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6215E35-AF1B-0574-5F6D-2F40934FAC61}|Assembly-CSharp.csproj|solutionrelative:assets\\minigames\\develop\\timur\\minigames\\runtime\\games\\memory\\card\\rotation\\rotationcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6215E35-AF1B-0574-5F6D-2F40934FAC61}|Assembly-CSharp.csproj|c:\\users\\barin\\minigamess\\assets\\minigames\\develop\\timur\\minigames\\runtime\\games\\memory\\card\\datacard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6215E35-AF1B-0574-5F6D-2F40934FAC61}|Assembly-CSharp.csproj|solutionrelative:assets\\minigames\\develop\\timur\\minigames\\runtime\\games\\memory\\card\\datacard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6215E35-AF1B-0574-5F6D-2F40934FAC61}|Assembly-CSharp.csproj|c:\\users\\barin\\minigamess\\assets\\minigames\\develop\\timur\\minigames\\runtime\\menu\\gamebegin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6215E35-AF1B-0574-5F6D-2F40934FAC61}|Assembly-CSharp.csproj|solutionrelative:assets\\minigames\\develop\\timur\\minigames\\runtime\\menu\\gamebegin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameController.cs",
+              "DocumentMoniker": "C:\\Users\\barin\\MiniGamess\\Assets\\MiniGames\\Develop\\timur\\MiniGames\\Runtime\\Games\\WaveMaster\\GameController.cs",
+              "RelativeDocumentMoniker": "Assets\\MiniGames\\Develop\\timur\\MiniGames\\Runtime\\Games\\WaveMaster\\GameController.cs",
+              "ToolTip": "C:\\Users\\barin\\MiniGamess\\Assets\\MiniGames\\Develop\\timur\\MiniGames\\Runtime\\Games\\WaveMaster\\GameController.cs",
+              "RelativeToolTip": "Assets\\MiniGames\\Develop\\timur\\MiniGames\\Runtime\\Games\\WaveMaster\\GameController.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAwwDUAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T12:36:12.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MathQuest.cs",
+              "DocumentMoniker": "C:\\Users\\barin\\MiniGamess\\Assets\\MiniGames\\Develop\\timur\\MiniGames\\Runtime\\Games\\MathQuest\\MathQuest.cs",
+              "RelativeDocumentMoniker": "Assets\\MiniGames\\Develop\\timur\\MiniGames\\Runtime\\Games\\MathQuest\\MathQuest.cs",
+              "ToolTip": "C:\\Users\\barin\\MiniGamess\\Assets\\MiniGames\\Develop\\timur\\MiniGames\\Runtime\\Games\\MathQuest\\MathQuest.cs",
+              "RelativeToolTip": "Assets\\MiniGames\\Develop\\timur\\MiniGames\\Runtime\\Games\\MathQuest\\MathQuest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAK8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T12:22:23.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DiedBird.cs",
+              "DocumentMoniker": "C:\\Users\\barin\\MiniGamess\\Assets\\MiniGames\\Develop\\timur\\MiniGames\\Runtime\\Games\\FlappyBird\\Bird\\DiedBird\\DiedBird.cs",
+              "RelativeDocumentMoniker": "Assets\\MiniGames\\Develop\\timur\\MiniGames\\Runtime\\Games\\FlappyBird\\Bird\\DiedBird\\DiedBird.cs",
+              "ToolTip": "C:\\Users\\barin\\MiniGamess\\Assets\\MiniGames\\Develop\\timur\\MiniGames\\Runtime\\Games\\FlappyBird\\Bird\\DiedBird\\DiedBird.cs",
+              "RelativeToolTip": "Assets\\MiniGames\\Develop\\timur\\MiniGames\\Runtime\\Games\\FlappyBird\\Bird\\DiedBird\\DiedBird.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T12:15:38.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DataCard.cs",
+              "DocumentMoniker": "C:\\Users\\barin\\MiniGamess\\Assets\\MiniGames\\Develop\\timur\\MiniGames\\Runtime\\Games\\Memory\\Card\\DataCard.cs",
+              "RelativeDocumentMoniker": "Assets\\MiniGames\\Develop\\timur\\MiniGames\\Runtime\\Games\\Memory\\Card\\DataCard.cs",
+              "ToolTip": "C:\\Users\\barin\\MiniGamess\\Assets\\MiniGames\\Develop\\timur\\MiniGames\\Runtime\\Games\\Memory\\Card\\DataCard.cs",
+              "RelativeToolTip": "Assets\\MiniGames\\Develop\\timur\\MiniGames\\Runtime\\Games\\Memory\\Card\\DataCard.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T11:15:08.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GameBegin.cs",
+              "DocumentMoniker": "C:\\Users\\barin\\MiniGamess\\Assets\\MiniGames\\Develop\\timur\\MiniGames\\Runtime\\Menu\\GameBegin.cs",
+              "RelativeDocumentMoniker": "Assets\\MiniGames\\Develop\\timur\\MiniGames\\Runtime\\Menu\\GameBegin.cs",
+              "ToolTip": "C:\\Users\\barin\\MiniGamess\\Assets\\MiniGames\\Develop\\timur\\MiniGames\\Runtime\\Menu\\GameBegin.cs",
+              "RelativeToolTip": "Assets\\MiniGames\\Develop\\timur\\MiniGames\\Runtime\\Menu\\GameBegin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T12:06:11.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RotationCard.cs",
+              "DocumentMoniker": "C:\\Users\\barin\\MiniGamess\\Assets\\MiniGames\\Develop\\timur\\MiniGames\\Runtime\\Games\\Memory\\Card\\Rotation\\RotationCard.cs",
+              "RelativeDocumentMoniker": "Assets\\MiniGames\\Develop\\timur\\MiniGames\\Runtime\\Games\\Memory\\Card\\Rotation\\RotationCard.cs",
+              "ToolTip": "C:\\Users\\barin\\MiniGamess\\Assets\\MiniGames\\Develop\\timur\\MiniGames\\Runtime\\Games\\Memory\\Card\\Rotation\\RotationCard.cs",
+              "RelativeToolTip": "Assets\\MiniGames\\Develop\\timur\\MiniGames\\Runtime\\Games\\Memory\\Card\\Rotation\\RotationCard.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T11:31:35.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GameMechanics.cs",
+              "DocumentMoniker": "C:\\Users\\barin\\MiniGamess\\Assets\\MiniGames\\Develop\\timur\\MiniGames\\Runtime\\Games\\Memory\\GameMechanics\\GameMechanics.cs",
+              "RelativeDocumentMoniker": "Assets\\MiniGames\\Develop\\timur\\MiniGames\\Runtime\\Games\\Memory\\GameMechanics\\GameMechanics.cs",
+              "ToolTip": "C:\\Users\\barin\\MiniGamess\\Assets\\MiniGames\\Develop\\timur\\MiniGames\\Runtime\\Games\\Memory\\GameMechanics\\GameMechanics.cs",
+              "RelativeToolTip": "Assets\\MiniGames\\Develop\\timur\\MiniGames\\Runtime\\Games\\Memory\\GameMechanics\\GameMechanics.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAcwEoAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T11:20:16.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SpawnCards.cs",
+              "DocumentMoniker": "C:\\Users\\barin\\MiniGamess\\Assets\\MiniGames\\Develop\\timur\\MiniGames\\Runtime\\Games\\Memory\\Card\\Spawner\\SpawnCards.cs",
+              "RelativeDocumentMoniker": "Assets\\MiniGames\\Develop\\timur\\MiniGames\\Runtime\\Games\\Memory\\Card\\Spawner\\SpawnCards.cs",
+              "ToolTip": "C:\\Users\\barin\\MiniGamess\\Assets\\MiniGames\\Develop\\timur\\MiniGames\\Runtime\\Games\\Memory\\Card\\Spawner\\SpawnCards.cs",
+              "RelativeToolTip": "Assets\\MiniGames\\Develop\\timur\\MiniGames\\Runtime\\Games\\Memory\\Card\\Spawner\\SpawnCards.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAwwDUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T11:13:59.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GamePoints.cs",
+              "DocumentMoniker": "C:\\Users\\barin\\MiniGamess\\Assets\\MiniGames\\Develop\\timur\\MiniGames\\Runtime\\GamePoints\\GamePoints.cs",
+              "RelativeDocumentMoniker": "Assets\\MiniGames\\Develop\\timur\\MiniGames\\Runtime\\GamePoints\\GamePoints.cs",
+              "ToolTip": "C:\\Users\\barin\\MiniGamess\\Assets\\MiniGames\\Develop\\timur\\MiniGames\\Runtime\\GamePoints\\GamePoints.cs",
+              "RelativeToolTip": "Assets\\MiniGames\\Develop\\timur\\MiniGames\\Runtime\\GamePoints\\GamePoints.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwCEAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T11:11:44.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\barin\\MiniGamess\\Assets\\MiniGames\\Develop\\timur\\MiniGames\\Runtime\\Games\\Dino\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\MiniGames\\Develop\\timur\\MiniGames\\Runtime\\Games\\Dino\\GameManager.cs",
+              "ToolTip": "C:\\Users\\barin\\MiniGamess\\Assets\\MiniGames\\Develop\\timur\\MiniGames\\Runtime\\Games\\Dino\\GameManager.cs",
+              "RelativeToolTip": "Assets\\MiniGames\\Develop\\timur\\MiniGames\\Runtime\\Games\\Dino\\GameManager.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAwwGEAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T11:04:01.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AudioController.cs",
+              "DocumentMoniker": "C:\\Users\\barin\\MiniGamess\\Assets\\MiniGames\\Develop\\timur\\MiniGames\\Runtime\\Menu\\Option\\AudioController.cs",
+              "RelativeDocumentMoniker": "Assets\\MiniGames\\Develop\\timur\\MiniGames\\Runtime\\Menu\\Option\\AudioController.cs",
+              "ToolTip": "C:\\Users\\barin\\MiniGamess\\Assets\\MiniGames\\Develop\\timur\\MiniGames\\Runtime\\Menu\\Option\\AudioController.cs",
+              "RelativeToolTip": "Assets\\MiniGames\\Develop\\timur\\MiniGames\\Runtime\\Menu\\Option\\AudioController.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwCMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T10:58:50.801Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
