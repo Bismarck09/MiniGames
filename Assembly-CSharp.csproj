@@ -61,11 +61,23 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\MiniGames\Menu\Scripts\Scene\LoadScene.cs" />
+    <Compile Include="Assets\MiniGames\Games\Dino\Scripts\Dino\DinoSpawn.cs" />
+    <Compile Include="Assets\MiniGames\Games\Dino\Scripts\Obstacle\ObstacleDied.cs" />
+    <Compile Include="Assets\MiniGames\Games\Dino\Scripts\Barrier\Barrier.cs" />
+    <Compile Include="Assets\MiniGames\Games\Dino\Scripts\Obstacle\ObstacleMovement.cs" />
+    <Compile Include="Assets\MiniGames\Games\Dino\Scripts\Obstacle\SpeedMovement.cs" />
+    <Compile Include="Assets\MiniGames\Games\Dino\Scripts\Dino\DinoDied.cs" />
     <Compile Include="Assets\MiniGames\Menu\Scripts\Audio\StartAudio.cs" />
+    <Compile Include="Assets\MiniGames\Games\Dino\Scripts\SpawnObstacle\SpawnObstacle.cs" />
     <Compile Include="Assets\MiniGames\Menu\Scripts\Settings\SwitchingAudio.cs" />
+    <Compile Include="Assets\MiniGames\Menu\Scripts\Points\Points.cs" />
     <Compile Include="Assets\MiniGames\Menu\Scripts\Record\SwitchingRecord.cs" />
     <Compile Include="Assets\MiniGames\Menu\Scripts\Scene\Scene.cs" />
+    <Compile Include="Assets\MiniGames\Menu\Scripts\StartGame\ScreenPosition.cs" />
+    <Compile Include="Assets\MiniGames\Games\Dino\Scripts\Dino\DinoJump.cs" />
+    <Compile Include="Assets\MiniGames\Games\Dino\Scripts\Ground\GroundMovement.cs" />
     <Compile Include="Assets\MiniGames\Menu\Scripts\Settings\SwitchingSettings.cs" />
+    <Compile Include="Assets\MiniGames\Games\Dino\Scripts\Ground\Ground.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />

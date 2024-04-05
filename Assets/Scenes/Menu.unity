@@ -1204,6 +1204,7 @@ GameObject:
   - component: {fileID: 519420032}
   - component: {fileID: 519420031}
   - component: {fileID: 519420029}
+  - component: {fileID: 519420033}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -1285,6 +1286,19 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &519420033
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 519420028}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 362d2890ef4164e4687eeebdd7030553, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _screenOrientation: 1
 --- !u!1 &573864637
 GameObject:
   m_ObjectHideFlags: 0
@@ -1759,7 +1773,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5a96eb4d094afc84085acbf74371dff4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _sceneName: {fileID: 102900000, guid: 1f6ca5aa21b2081419f66bd53844c896, type: 3}
+  _sceneName: {fileID: 102900000, guid: 63a966ae4d4cedb40b723e3433eda0e3, type: 3}
 --- !u!1 &940804973
 GameObject:
   m_ObjectHideFlags: 0
@@ -3929,7 +3943,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.7056337, g: 0.9528302, b: 0.9505279, a: 0.392}
+  m_Color: {r: 0.7056337, g: 0.9528302, b: 0.9505279, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1

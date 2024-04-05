@@ -12,5 +12,6 @@ public class LoadScene : MonoBehaviour
     public void LoadingScene()
     {
         Scene.LoadScene(_sceneName.name);
+        Time.timeScale = 1f;
     }
 }
