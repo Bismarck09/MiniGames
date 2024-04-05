@@ -1,7 +1,7 @@
 using TMPro;
 using UnityEngine;
 
-public class Points : MonoBehaviour
+public class DinoPoints : MonoBehaviour
 {
     [SerializeField] private DinoDied _dinoDied;
     [SerializeField] private TextMeshProUGUI _numberOfPointsText;
